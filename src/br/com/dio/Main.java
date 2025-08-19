@@ -2,13 +2,11 @@ package br.com.dio;
 
 import br.com.dio.model.Board;
 import br.com.dio.model.Space;
-import br.com.dio.util.BoardTemplate;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static br.com.dio.util.BoardTemplate.BOARD_TEMPLATE;
